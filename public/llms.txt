@@ -1,0 +1,55 @@
+# Raggiodev Ecosystem Lobby (links.raggiodev.com)
+
+> Official central directory ("Ecosystem Lobby") for all production software, Blue Team cybersecurity tools, indie games, verified certifications, technical writing, and official channels created by **Fernando Andres Raggio (`Raggiodev`)** — Full Stack Web Developer (MERN / TypeScript / Python) & Cybersecurity Analyst (Blue Team), undergraduate student in Cyberdefense (Licenciatura en Ciberdefensa) at FADENA (UNDEF), Argentina.
+
+- **Canonical Lobby URL**: https://links.raggiodev.com
+- **Official Main Portfolio**: https://raggiodev.com (Shortcut: https://portfolio.raggiodev.com)
+- **Official Certificates & Badges (22+ Verified)**: https://raggiodev.com/certificates (Shortcut: https://certs.raggiodev.com)
+- **Portfolio LLM Context**: https://raggiodev.com/llms.txt
+- **Direct Contact**: mailto:support@raggiodev.com
+
+---
+
+## 1. Core Ecosystem Nodes (`core`)
+
+- [Official Portfolio — Raggiodev](https://raggiodev.com): Main interactive portfolio, technical CV, Full Stack & Blue Team trajectory, and undergraduate education in Cyberdefense at FADENA (UNDEF). Shortcut: `https://portfolio.raggiodev.com`.
+- [Official Certificates & Badges (22+ Verified)](https://raggiodev.com/certificates): Verifiable repository of 22+ diplomas and badges including Google Cybersecurity, Microsoft & LinkedIn Cybersecurity, 13 IBM SkillsBuild paths, Full Stack MERN, Argentina Programa, CESSI, EF SET CEFR, CUI Technical English, EducaciónIT, and Accenture. Shortcut: `https://certs.raggiodev.com`.
+
+---
+
+## 2. Software Projects, Apps & Deployments (`projects`)
+
+Catalog Filter URL: `https://links.raggiodev.com/?tab=projects`
+
+### Production & Store Releases (`production`)
+- [Coronados: El Trono Hispano](https://coronados.raggiodev.com): Cross-platform 1v1 ELO community ranking game (Android on Google Play & Web SPA). Built with React Native, Expo SDK 52, Kotlin-first native architecture, TypeScript, and Supabase PostgreSQL with atomic PL/pgSQL RPCs and anti-cheat tickets.
+- [NetPocket Cybersecurity](https://netpocket.raggiodev.com): Air-gapped Android cybersecurity and networking toolkit published on Google Play Store (Subnet calculator, Port lookup, Chmod calculator, Windows Event IDs, HTTP codes, Inspector, Cryptographic Guard). Built with React, Vite, Tailwind CSS, TypeScript, and Capacitor.
+- [Escudo Criollo](https://escudo-criollo.raggiodev.com): Browser extension published on Chrome Web Store to detect fraudulent e-commerce stores in Argentina. Features mathematical Módulo 11 CUIT/CUIL validation, official ARCA/AFIP F.960 Data Fiscal QR detection, Zero-Trust closed Shadow DOM, and a UTF-8/homograph character auditor. Built with WXT Framework, React, and TypeScript.
+- [PsicopedApp](https://github.com/raggiodev): Mobile utility application for psychopedagogy professionals featuring a clinical chronological age calculator (exact years, months, and days) and educational assessment tools. Built with React Native, Expo, and TypeScript.
+
+### AI & Automation (`ai`)
+- [Cloud-Hosted AI Orchestration Bot (TARSito WPP)](https://github.com/raggiodev): 24/7 automated WhatsApp assistant hosted on Google Cloud Platform (e2-micro). Features multi-provider AI orchestration (Groq Qwen3-32B primary engine with automatic Google Gemini API fallback), role-based group whitelist/cooldown anti-ban system, and local Obsidian Markdown vault RAG (`/notas`). Built with Node.js and Baileys.
+- [Organi & Deby AI](https://github.com/raggiodev): Personal finance, smart link bookmarking with folder hierarchies, and notes ecosystem powered by the internal Deby AI assistant.
+- [DocuDebate Lab](https://github.com/raggiodev): AI-powered document analysis and structured debate platform (Top 6 Finalist among 600 participants in the Egg AI Power Competition).
+
+### Indie Games & Interactive Simulations (`gamedev`)
+Catalog Filter URL: `https://links.raggiodev.com/?tab=gamedev`
+- [Daily Dose](https://github.com/raggiodev): First-person 3D survival/collectathon indie game co-developed with Matías Serrano (Mysterious Dash) in Godot Engine 4 and GDScript.
+- [JS WorldBox Berreta](https://js-worldbox-berreta.raggiodev.com): Experimental browser-based sandbox simulation written in JavaScript.
+
+### Web Platforms & Labs (`web`)
+- [Team Salvador — Dojang ITF Platform](https://github.com/raggiodev): Web and mobile platform for ITF Taekwondo students featuring schedules, theory resources, and belt graduations.
+
+---
+
+## 3. Content Channels, Social Networks & Mirrors (`social`)
+
+Catalog Filter URL: `https://links.raggiodev.com/?tab=social`
+
+- [GitHub (@raggiodev)](https://github.com/raggiodev): Open-source repositories, defensive security tools, and web deployments.
+- [LinkedIn (Fernando Andres Raggio)](https://www.linkedin.com/in/raggiodev): Professional network, career updates, and cybersecurity publications.
+- [Substack Technical Blog](https://raggiodev.substack.com): Technical articles and deep dives on software engineering, AI, and cyberdefense.
+- [YouTube Main Channel (Raggiodev)](https://yt.raggiodev.com): Software development, technical tutorials, and project showcases.
+- [YouTube Shorts Channel (CasiUnMinuto)](https://casiunminuto.raggiodev.com): Short-form technology and curiosity content.
+- [Linktree Mirror](https://linktr.ee/raggiodev): External social link mirror.
+- [Official Email Contact](mailto:support@raggiodev.com): Direct contact for professional inquiries and support.
